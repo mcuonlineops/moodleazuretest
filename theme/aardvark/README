@@ -1,0 +1,45 @@
+Aardvark 2.3 for Moodle
+Codename: Penguin
+Status: Stable
+Icons: Fatcow Hosting
+
+UPDATES
+-----------------------
+
+CORE
+- Bye bye fishy. Default background is a bluey blur
+- Removing the default from Background Image now creates a blank background
+- Horizontal Repeat added to Background settings
+- Font changed to Verdana
+- Autohide disabled
+- Optional gap between profile bar and content
+- New icon for "Edit String"
+- Underline removed from links
+- New icons for Assignment, Book and Hot Potatoes modules
+- Added Mary's fix to solve "Add activity/resource" window z-index issue (2.3+)
+
+PROFILE BAR / HEADER
+- Add custom content to Profile Bar from Aardvark settings 
+- Updated "My Files" URL
+
+BLOCKS
+- Padding reduced to (5px 2px)
+- Margin between tree menu items improved
+
+COURSE PAGES
+- Added style for new "section per page" headers
+- Replaced legacy td code with div code for Course Category styles
+
+MODULES
+- Fixed Quiz report display
+
+FOOTER
+- Footerwrap extended to 100% for Fixed width
+- CEOP Button available for UK and Australia
+- New mono style social icons
+
+KNOWN ISSUES
+-----------------------
+
+CORE
+- Profile Bar not visible on IE9 Compatibility Mode (Disable compatibility mode - set by default for intranet sites - to view correctly)
